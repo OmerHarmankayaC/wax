@@ -106,4 +106,4 @@ flutter run -d <device-id>
 
 ## Geliştirici
 
-Ömer Harmankaya – Flutter Günlük Eğitim Projesi
+Ömer Harmankaya – TED Üniversitesi
